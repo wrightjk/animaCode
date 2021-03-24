@@ -1,0 +1,306 @@
+/* screen - web-1920-23 */
+
+.arial-regular-normal-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-11px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-34px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+}
+.border-1-5px-green-pea {
+  border: 1.5px solid var(--green-pea);
+}
+.border-1px-green-pea {
+  border: 1px solid var(--green-pea);
+}
+.border-2px-green-blue {
+  border: 2px solid var(--green-blue);
+}
+.border-2px-green-pea {
+  border: 2px solid var(--green-pea);
+}
+.border-2px-white {
+  border: 2px solid var(--white);
+}
+.border-3px-green-pea {
+  border: 3px solid var(--green-pea);
+}
+.border-4px-green-pea {
+  border: 4px solid var(--green-pea);
+}
+.border-class-1 {
+  border: 1px solid rgba(38,97,65,0.627);
+}
+.opensans-bold-white-11px {
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+}
+.opensans-bold-white-25px {
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.opensans-normal-green-pea-20px {
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-normal-green-pea-23px {
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-normal-green-pea-40px {
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+}
+.trajanpro3-bold-green-pea-50px {
+  color: var(--green-pea);
+  font-family: 'TrajanPro 3-Bold', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+}
+.web-1920-23 {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  height: 1080px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  padding: 0 38px;
+  position: relative;
+  width: 1920px;
+}
+.web-1920-23 .create-account-4eduM0 {
+  background-color: transparent;
+  color: var(--green-pea);
+  font-family: 'TrajanPro 3-Bold', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 183px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  width: 451px;
+}
+.web-1920-23 .flex-col-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 1;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 49px;
+  min-height: 984px;
+  position: relative;
+  width: 468px;
+}
+.web-1920-23 .gvam-logo-green-goldcopy-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 260px;
+  object-fit: cover;
+  position: relative;
+  width: 468px;
+}
+.web-1920-23 .icons-q2-0ghT22 {
+  background-color: transparent;
+  background-image: url(../img/path-15-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 54px;
+  position: absolute;
+  right: calc(49.96% - 15px);
+  top: calc(50.00% - 27px);
+  width: 31px;
+}
+.web-1920-23 .invisible-box-0ghT22 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-23 .job-title-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 116px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 630px;
+  width: 501px;
+}
+.web-1920-23 .layer-2-0xy0vn {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 92px;
+  margin-left: 2px;
+  margin-top: 632px;
+  position: relative;
+  width: 92px;
+}
+.web-1920-23 .log-in-4eduM0 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 337px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 744px;
+  width: 501px;
+}
+.web-1920-23 .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 893px;
+  margin-left: 83px;
+  margin-top: 91px;
+  position: relative;
+  width: 838px;
+}
+.web-1920-23 .path-1-4eduM0 {
+  background-color: transparent;
+  height: 69px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 736px;
+  width: 630px;
+}
+.web-1920-23 .rectangle-1-4eduM0 {
+  background-color: var(--white);
+  height: 69px;
+  left: 92px;
+  position: absolute;
+  top: 274px;
+  width: 630px;
+}
+.web-1920-23 .rectangle-3-4eduM0 {
+  background-color: var(--white);
+  height: 69px;
+  left: 92px;
+  position: absolute;
+  top: 391px;
+  width: 630px;
+}
+.web-1920-23 .rectangle-4-4eduM0 {
+  background-color: var(--white);
+  height: 69px;
+  left: 92px;
+  position: absolute;
+  top: 507px;
+  width: 630px;
+}
+.web-1920-23 .rectangle-44-4eduM0 {
+  background-color: var(--white);
+  height: 893px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 836px;
+}
+.web-1920-23 .rectangle-5-4eduM0 {
+  background-color: var(--white);
+  height: 69px;
+  left: 92px;
+  position: absolute;
+  top: 620px;
+  width: 630px;
+}
+.web-1920-23 .tracy-brown-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 116px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 285px;
+  width: 501px;
+}
+.web-1920-23 .tracybrown123-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 116px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 401px;
+  width: 501px;
+}
+.web-1920-23 .x-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 116px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 517px;
+  width: 501px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --concrete: rgba(242,242,242,1.0);
+  --galliano: rgba(219,170,0,1.0);
+  --green-blue: rgba(31,120,180,1.0);
+  --green-pea: rgba(38,97,65,1.0);
+  --green-pea-2: rgba(38,97,65,0.992);
+  --shady-lady: rgba(170,170,170,1.0);
+  --tundora: rgba(68,68,68,1.0);
+  --white: rgba(255,255,255,1.0);
+}

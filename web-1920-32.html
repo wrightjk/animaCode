@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/web-1920-32.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+
+      @font-face {
+        font-family: "Arial-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c58c99ae21217000c4e869b/arial.otf") format("opentype");
+      }
+
+      @font-face {
+        font-family: "HelveticaNeue-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5cf8ce54520dfb8030e86611/HelveticaNeue-Regular.ttf")
+          format("truetype");
+      }
+
+      @font-face {
+        font-family: "TrajanPro 3-Bold";
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5d85c6afa4df1e13f530fd3c/trajan-pro-3-bold.otf")
+          format("opentype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="web-1920-32" />
+    <div class="container-center-horizontal">
+      <div class="web-1920-32 screen">
+        <div class="overlap-group1-C61RwL">
+          <div class="rectangle-51-RH0WJ5 border-1px-green-pea"></div>
+          <a href="web-1920-34.html"><div class="tracy-brown-RH0WJ5 opensans-bold-white-25px">TRACY BROWN</div></a>
+          <a href="web-1920-31.html">
+            <div class="layer-2-RH0WJ5">
+              <div class="invisible-box-ykNAhA"></div>
+              <div class="icons-q2-ykNAhA"></div></div
+          ></a>
+          <div class="layer-2-s3i1G8">
+            <div class="invisible-box-RJnCk2"></div>
+            <div class="icons-q2-RJnCk2"></div>
+          </div>
+          <a href="web-1920-34.html"><img class="ellipse-12-RH0WJ5" src="img/ellipse-12@1x.png" /></a>
+          <div class="layer-2-wN84x2">
+            <div class="invisible-box-cRKBoe"></div>
+            <div class="icons-q2-cRKBoe"></div>
+          </div>
+          <a href="web-1920-33.html">
+            <div class="layer-2-Vr48xL">
+              <div class="invisible-box-tvjFNW"></div>
+              <div class="icons-q2-tvjFNW"></div></div
+          ></a>
+          <div class="ellipse-43-RH0WJ5"></div>
+          <div class="x2-RH0WJ5 opensans-bold-white-11px">2</div>
+        </div>
+        <div class="flex-row-C61RwL">
+          <div class="layer-2-dXBp89">
+            <div class="invisible-box-oFSGHE"></div>
+            <div class="icons-q2-oFSGHE"></div>
+          </div>
+          <div class="overlap-group-dXBp89">
+            <div class="rectangle-130-h7LeMT border-4px-green-pea"></div>
+            <div class="calendar-h7LeMT trajanpro3-bold-green-pea-50px">CALENDAR</div>
+            <div class="group-1-h7LeMT">
+              <div class="rectangle-87-7zxne5"></div>
+              <div class="march-2021-7zxne5">March 2021</div>
+              <img class="path-28-7zxne5" src="img/path-28-1@1x.png" />
+              <img class="path-29-7zxne5" src="img/path-29-1@1x.png" />
+              <div class="rectangle-88-7zxne5"></div>
+              <div class="m-7zxne5">M</div>
+              <div class="rectangle-89-7zxne5"></div>
+              <div class="t-7zxne5">T</div>
+              <div class="rectangle-90-7zxne5"></div>
+              <div class="w-7zxne5">W</div>
+              <div class="rectangle-91-7zxne5"></div>
+              <div class="t-aKQP4N">T</div>
+              <div class="rectangle-92-7zxne5"></div>
+              <div class="f-7zxne5">F</div>
+              <div class="rectangle-93-7zxne5"></div>
+              <div class="s-7zxne5">S</div>
+              <div class="rectangle-94-7zxne5"></div>
+              <div class="s-aKQP4N">S</div>
+              <div class="rectangle-95-7zxne5"></div>
+              <div class="x1-7zxne5">1</div>
+              <div class="rectangle-96-7zxne5"></div>
+              <div class="x2-7zxne5">2</div>
+              <div class="rectangle-97-7zxne5"></div>
+              <div class="x3-7zxne5">3</div>
+              <div class="rectangle-98-7zxne5"></div>
+              <div class="x4-7zxne5">4</div>
+              <div class="rectangle-99-7zxne5"></div>
+              <div class="x5-7zxne5">5</div>
+              <div class="rectangle-100-7zxne5"></div>
+              <div class="x6-7zxne5">6</div>
+              <div class="rectangle-101-7zxne5"></div>
+              <div class="x7-7zxne5">7</div>
+              <div class="rectangle-102-7zxne5"></div>
+              <div class="x8-7zxne5">8</div>
+              <div class="rectangle-103-7zxne5"></div>
+              <div class="x9-7zxne5">9</div>
+              <div class="rectangle-104-7zxne5"></div>
+              <div class="x10-7zxne5 arial-regular-normal-black-34px">10</div>
+              <div class="rectangle-105-7zxne5"></div>
+              <div class="x11-7zxne5">11</div>
+              <div class="rectangle-106-7zxne5"></div>
+              <div class="x12-7zxne5 arial-regular-normal-black-34px">12</div>
+              <div class="rectangle-107-7zxne5"></div>
+              <div class="x13-7zxne5 arial-regular-normal-black-34px">13</div>
+              <div class="rectangle-108-7zxne5"></div>
+              <div class="x14-7zxne5 arial-regular-normal-black-34px">14</div>
+              <div class="rectangle-109-7zxne5"></div>
+              <div class="x15-7zxne5 arial-regular-normal-black-34px">15</div>
+              <div class="rectangle-110-7zxne5"></div>
+              <div class="x16-7zxne5 arial-regular-normal-black-34px">16</div>
+              <div class="rectangle-111-7zxne5"></div>
+              <div class="x17-7zxne5 arial-regular-normal-black-34px">17</div>
+              <div class="rectangle-112-7zxne5"></div>
+              <div class="x18-7zxne5 arial-regular-normal-black-34px">18</div>
+              <div class="rectangle-113-7zxne5"></div>
+              <div class="x19-7zxne5 arial-regular-normal-black-34px">19</div>
+              <div class="rectangle-114-7zxne5"></div>
+              <div class="x20-7zxne5 arial-regular-normal-black-34px">20</div>
+              <div class="rectangle-115-7zxne5"></div>
+              <div class="x21-7zxne5 arial-regular-normal-black-34px">21</div>
+              <div class="rectangle-116-7zxne5"></div>
+              <div class="x22-7zxne5 arial-regular-normal-black-34px">22</div>
+              <div class="rectangle-117-7zxne5"></div>
+              <div class="x23-7zxne5 arial-regular-normal-black-34px">23</div>
+              <div class="rectangle-118-7zxne5"></div>
+              <div class="x24-7zxne5 arial-regular-normal-black-34px">24</div>
+              <div class="rectangle-119-7zxne5"></div>
+              <div class="x25-7zxne5 arial-regular-normal-black-34px">25</div>
+              <div class="rectangle-120-7zxne5"></div>
+              <div class="x26-7zxne5 arial-regular-normal-black-34px">26</div>
+              <div class="rectangle-121-7zxne5"></div>
+              <div class="x27-7zxne5 arial-regular-normal-black-34px">27</div>
+              <div class="rectangle-122-7zxne5"></div>
+              <div class="x28-7zxne5 arial-regular-normal-black-34px">28</div>
+              <div class="rectangle-123-7zxne5"></div>
+              <div class="x29-7zxne5 arial-regular-normal-black-34px">29</div>
+              <div class="rectangle-124-7zxne5"></div>
+              <div class="x30-7zxne5 arial-regular-normal-black-34px">30</div>
+              <div class="rectangle-125-7zxne5"></div>
+              <div class="x31-7zxne5 arial-regular-normal-black-34px">31</div>
+              <div class="rectangle-126-7zxne5"></div>
+              <div class="x1-aKQP4N">1</div>
+              <div class="rectangle-127-7zxne5"></div>
+              <div class="x2-aKQP4N">2</div>
+              <div class="rectangle-128-7zxne5"></div>
+              <div class="x3-aKQP4N">3</div>
+              <div class="rectangle-129-7zxne5"></div>
+              <div class="x4-aKQP4N">4</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

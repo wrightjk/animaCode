@@ -1,0 +1,682 @@
+/* screen - web-1920-64 */
+
+.arial-regular-normal-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-11px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-34px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+}
+.border-1-5px-green-pea {
+  border: 1.5px solid var(--green-pea);
+}
+.border-1px-green-pea {
+  border: 1px solid var(--green-pea);
+}
+.border-2px-green-blue {
+  border: 2px solid var(--green-blue);
+}
+.border-2px-green-pea {
+  border: 2px solid var(--green-pea);
+}
+.border-2px-white {
+  border: 2px solid var(--white);
+}
+.border-3px-green-pea {
+  border: 3px solid var(--green-pea);
+}
+.border-4px-green-pea {
+  border: 4px solid var(--green-pea);
+}
+.border-class-1 {
+  border: 1px solid rgba(38,97,65,0.627);
+}
+.opensans-bold-white-11px {
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+}
+.opensans-bold-white-25px {
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.opensans-normal-green-pea-20px {
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-normal-green-pea-23px {
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-normal-green-pea-40px {
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+}
+.trajanpro3-bold-green-pea-50px {
+  color: var(--green-pea);
+  font-family: 'TrajanPro 3-Bold', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+}
+.web-1920-64 {
+  align-items: flex-end;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.web-1920-64 .additional-expenses-kDaCOT {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 398px;
+  width: 399px;
+}
+.web-1920-64 .additional-notes-kDaCOT {
+  background-color: transparent;
+  height: auto;
+  left: 538px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 398px;
+  width: 399px;
+}
+.web-1920-64 .addresses-visited-kDaCOT {
+  background-color: transparent;
+  height: auto;
+  left: 538px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 214px;
+  width: 501px;
+}
+.web-1920-64 .closure-iQaBfH {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 345px;
+}
+.web-1920-64 .closure-mHVRPi {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: 345px;
+}
+.web-1920-64 .completion-form-kDaCOT {
+  background-color: transparent;
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  width: 501px;
+}
+.web-1920-64 .ellipse-12-4eduM0 {
+  background-color: transparent;
+  border-radius: 64.5px/59px;
+  height: 118px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 129px;
+}
+.web-1920-64 .ellipse-33-dXBp89 {
+  background-color: transparent;
+  border-radius: 55.5px/53.5px;
+  flex-shrink: 1;
+  height: 107px;
+  margin-left: 25px;
+  object-fit: cover;
+  position: relative;
+  width: 111px;
+}
+.web-1920-64 .ellipse-43-4eduM0 {
+  background-color: var(--galliano);
+  border-radius: 8.5px;
+  height: 17px;
+  left: 1814px;
+  position: absolute;
+  top: 68px;
+  width: 17px;
+}
+.web-1920-64 .final-cost-kDaCOT {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 117px;
+  width: 501px;
+}
+.web-1920-64 .flex-row-C61RwL {
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 107px;
+  justify-content: flex-start;
+  margin-right: 181.0px;
+  margin-top: 65px;
+  min-width: 1423px;
+  position: relative;
+  width: auto;
+}
+.web-1920-64 .flex-row-VMr6Om {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 608px;
+  justify-content: flex-start;
+  margin-right: 99px;
+  margin-top: 41px;
+  min-width: 1379px;
+  position: relative;
+  width: auto;
+}
+.web-1920-64 .icons-q2-NtCyQr {
+  background-color: transparent;
+  background-image: url(../img/path-46-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 34px;
+  left: calc(46.51% - 17px);
+  position: absolute;
+  top: calc(42.24% - 14px);
+  width: 36px;
+}
+.web-1920-64 .icons-q2-Ogtyn9 {
+  background-color: transparent;
+  background-image: url(../img/path-40@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 49px;
+}
+.web-1920-64 .icons-q2-ZtXogr {
+  background-color: transparent;
+  background-image: url(../img/path-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 8px);
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: calc(100.00% - 8px);
+}
+.web-1920-64 .icons-q2-mN00xq {
+  background-color: transparent;
+  background-image: url(../img/path-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 14px);
+  left: 2px;
+  position: absolute;
+  top: 7px;
+  width: calc(100.00% - 4px);
+}
+.web-1920-64 .icons-q2-oFSGHE {
+  background-color: transparent;
+  background-image: url(../img/path-15-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 54px;
+  position: absolute;
+  right: calc(49.96% - 15px);
+  top: calc(50.00% - 27px);
+  width: 31px;
+}
+.web-1920-64 .icons-q2-zotCyN {
+  background-color: transparent;
+  background-image: url(../img/path-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 4px);
+  left: 4px;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 8px);
+}
+.web-1920-64 .invisible-box-NtCyQr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-64 .invisible-box-Ogtyn9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.web-1920-64 .invisible-box-ZtXogr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-64 .invisible-box-mN00xq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-64 .invisible-box-oFSGHE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-64 .invisible-box-zotCyN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-64 .layer-2-4eduM0 {
+  background-color: transparent;
+  height: 48px;
+  left: 1678px;
+  position: absolute;
+  top: 68px;
+  width: 48px;
+}
+.web-1920-64 .layer-2-6sb1qn {
+  background-color: transparent;
+  height: 58px;
+  left: 10px;
+  position: absolute;
+  top: 63px;
+  width: 94px;
+}
+.web-1920-64 .layer-2-BJQsbv {
+  background-color: transparent;
+  height: 48px;
+  left: 1582px;
+  position: absolute;
+  top: 68px;
+  width: 48px;
+}
+.web-1920-64 .layer-2-dXBp89 {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 92px;
+  position: relative;
+  width: 92px;
+}
+.web-1920-64 .layer-2-iQaBfH {
+  background-color: transparent;
+  height: 53px;
+  left: 386px;
+  position: absolute;
+  top: 7px;
+  width: 53px;
+}
+.web-1920-64 .layer-2-ovOecM {
+  background-color: transparent;
+  height: 48px;
+  left: 1784px;
+  position: absolute;
+  top: 68px;
+  width: 48px;
+}
+.web-1920-64 .mileage-kDaCOT {
+  background-color: transparent;
+  height: auto;
+  left: 538px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 306px;
+  width: 423px;
+}
+.web-1920-64 .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 179px;
+  margin-right: -0.5px;
+  margin-top: 0px;
+  position: relative;
+  width: 1921px;
+}
+.web-1920-64 .overlap-group1-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 66px;
+  margin-left: 89px;
+  margin-top: 1.0px;
+  position: relative;
+  width: 458px;
+}
+.web-1920-64 .overlap-group2-BdpSxK {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 608px;
+  position: relative;
+  width: 1039px;
+}
+.web-1920-64 .overlap-group3-BdpSxK {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 79px;
+  margin-bottom: 12px;
+  margin-left: 81px;
+  position: relative;
+  width: 259px;
+}
+.web-1920-64 .payment-received-kDaCOT {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 214px;
+  width: 501px;
+}
+.web-1920-64 .positive-or-neg-experience-why-kDaCOT {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 306px;
+  width: 423px;
+}
+.web-1920-64 .rectangle-1-kDaCOT {
+  background-color: var(--white);
+  height: 47px;
+  left: 45px;
+  position: absolute;
+  top: 149px;
+  width: 430px;
+}
+.web-1920-64 .rectangle-258-iQaBfH {
+  background-color: rgba(38,97,65,0.627);
+  border-radius: 33px;
+  height: 66px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 458px;
+}
+.web-1920-64 .rectangle-263-kDaCOT {
+  background-color: var(--white);
+  height: 47px;
+  left: 45px;
+  position: absolute;
+  top: 517px;
+  width: 430px;
+}
+.web-1920-64 .rectangle-3-kDaCOT {
+  background-color: var(--white);
+  height: 47px;
+  left: 45px;
+  position: absolute;
+  top: 241px;
+  width: 430px;
+}
+.web-1920-64 .rectangle-329-kDaCOT {
+  background-color: rgba(38,97,65,0.082);
+  height: 608px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1013px;
+}
+.web-1920-64 .rectangle-334-kLouK3 {
+  background-color: var(--green-pea);
+  border-radius: 31px;
+  height: 79px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 258px;
+}
+.web-1920-64 .rectangle-335-kDaCOT {
+  background-color: var(--white);
+  height: 47px;
+  left: 538px;
+  position: absolute;
+  top: 149px;
+  width: 430px;
+}
+.web-1920-64 .rectangle-336-kDaCOT {
+  background-color: var(--white);
+  height: 47px;
+  left: 538px;
+  position: absolute;
+  top: 241px;
+  width: 430px;
+}
+.web-1920-64 .rectangle-337-kDaCOT {
+  background-color: var(--white);
+  height: 47px;
+  left: 538px;
+  position: absolute;
+  top: 333px;
+  width: 430px;
+}
+.web-1920-64 .rectangle-338-kDaCOT {
+  background-color: var(--white);
+  height: 139px;
+  left: 538px;
+  position: absolute;
+  top: 425px;
+  width: 430px;
+}
+.web-1920-64 .rectangle-4-kDaCOT {
+  background-color: var(--white);
+  height: 47px;
+  left: 45px;
+  position: absolute;
+  top: 333px;
+  width: 430px;
+}
+.web-1920-64 .rectangle-5-kDaCOT {
+  background-color: var(--white);
+  height: 47px;
+  left: 45px;
+  position: absolute;
+  top: 425px;
+  width: 430px;
+}
+.web-1920-64 .rectangle-51-4eduM0 {
+  background-color: var(--green-pea-2);
+  height: 179px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1921px;
+}
+.web-1920-64 .robert-edwards-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  margin-left: 129px;
+  margin-top: 26.0px;
+  min-height: 53px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 519px;
+}
+.web-1920-64 .send-review-for-robert-edwards-kLouK3 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 248px;
+}
+.web-1920-64 .tracy-brown-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 292px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 72px;
+  width: 237px;
+}
+.web-1920-64 .trucks-used-kDaCOT {
+  background-color: transparent;
+  height: auto;
+  left: 538px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 117px;
+  width: 501px;
+}
+.web-1920-64 .who-went-on-move-kDaCOT {
+  background-color: transparent;
+  height: auto;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 490px;
+  width: 501px;
+}
+.web-1920-64 .x2-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 1820px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 68px;
+  width: 30px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --concrete: rgba(242,242,242,1.0);
+  --galliano: rgba(219,170,0,1.0);
+  --green-blue: rgba(31,120,180,1.0);
+  --green-pea: rgba(38,97,65,1.0);
+  --green-pea-2: rgba(38,97,65,0.992);
+  --shady-lady: rgba(170,170,170,1.0);
+  --tundora: rgba(68,68,68,1.0);
+  --white: rgba(255,255,255,1.0);
+}

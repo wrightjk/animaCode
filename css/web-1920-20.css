@@ -1,0 +1,268 @@
+/* screen - web-1920-20 */
+
+.arial-regular-normal-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-11px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-34px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+}
+.border-1-5px-green-pea {
+  border: 1.5px solid var(--green-pea);
+}
+.border-1px-green-pea {
+  border: 1px solid var(--green-pea);
+}
+.border-2px-green-blue {
+  border: 2px solid var(--green-blue);
+}
+.border-2px-green-pea {
+  border: 2px solid var(--green-pea);
+}
+.border-2px-white {
+  border: 2px solid var(--white);
+}
+.border-3px-green-pea {
+  border: 3px solid var(--green-pea);
+}
+.border-4px-green-pea {
+  border: 4px solid var(--green-pea);
+}
+.border-class-1 {
+  border: 1px solid rgba(38,97,65,0.627);
+}
+.opensans-bold-white-11px {
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+}
+.opensans-bold-white-25px {
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.opensans-normal-green-pea-20px {
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-normal-green-pea-23px {
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-normal-green-pea-40px {
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+}
+.trajanpro3-bold-green-pea-50px {
+  color: var(--green-pea);
+  font-family: 'TrajanPro 3-Bold', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+}
+.web-1920-20 {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  padding: 17px 40px;
+  position: relative;
+  width: 1920px;
+}
+.web-1920-20 .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 851px;
+  justify-content: flex-start;
+  min-width: 1373px;
+  position: relative;
+  width: auto;
+}
+.web-1920-20 .gvam-logo-green-goldcopy-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 260px;
+  object-fit: cover;
+  position: relative;
+  width: 468px;
+}
+.web-1920-20 .icons-q2-f3UKUx {
+  background-color: transparent;
+  background-image: url(../img/path-15-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 54px;
+  position: absolute;
+  right: calc(49.96% - 15px);
+  top: calc(50.00% - 27px);
+  width: 31px;
+}
+.web-1920-20 .invisible-box-f3UKUx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.web-1920-20 .layer-2-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 92px;
+  margin-top: 73px;
+  position: relative;
+  width: 92px;
+}
+.web-1920-20 .log-in-h7LeMT {
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'HelveticaNeue-Regular', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 326px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 496px;
+  white-space: nowrap;
+  width: 501px;
+}
+.web-1920-20 .overlap-group-dXBp89 {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 646px;
+  margin-left: 78px;
+  position: relative;
+  width: 827px;
+}
+.web-1920-20 .path-1-h7LeMT {
+  background-color: transparent;
+  height: 69px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 486px;
+  width: 630px;
+}
+.web-1920-20 .rectangle-1-h7LeMT {
+  background-color: var(--white);
+  height: 69px;
+  left: 81px;
+  position: absolute;
+  top: 210px;
+  width: 630px;
+}
+.web-1920-20 .rectangle-3-h7LeMT {
+  background-color: var(--white);
+  height: 69px;
+  left: 81px;
+  position: absolute;
+  top: 327px;
+  width: 630px;
+}
+.web-1920-20 .rectangle-43-h7LeMT {
+  background-color: var(--white);
+  height: 646px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 786px;
+}
+.web-1920-20 .sign-in-h7LeMT {
+  background-color: transparent;
+  color: var(--green-pea);
+  font-family: 'TrajanPro 3-Bold', Helvetica;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 251px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 55px;
+  white-space: nowrap;
+  width: 286px;
+}
+.web-1920-20 .tracybrown123-h7LeMT {
+  background-color: transparent;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  width: 501px;
+}
+.web-1920-20 .x-h7LeMT {
+  background-color: transparent;
+  height: auto;
+  left: 105px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 336px;
+  width: 501px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --concrete: rgba(242,242,242,1.0);
+  --galliano: rgba(219,170,0,1.0);
+  --green-blue: rgba(31,120,180,1.0);
+  --green-pea: rgba(38,97,65,1.0);
+  --green-pea-2: rgba(38,97,65,0.992);
+  --shady-lady: rgba(170,170,170,1.0);
+  --tundora: rgba(68,68,68,1.0);
+  --white: rgba(255,255,255,1.0);
+}

@@ -1,0 +1,688 @@
+/* screen - home-page */
+
+.arial-regular-normal-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-11px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-34px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+}
+.border-1-5px-green-pea {
+  border: 1.5px solid var(--green-pea);
+}
+.border-1px-green-pea {
+  border: 1px solid var(--green-pea);
+}
+.border-2px-green-blue {
+  border: 2px solid var(--green-blue);
+}
+.border-2px-green-pea {
+  border: 2px solid var(--green-pea);
+}
+.border-2px-white {
+  border: 2px solid var(--white);
+}
+.border-3px-green-pea {
+  border: 3px solid var(--green-pea);
+}
+.border-4px-green-pea {
+  border: 4px solid var(--green-pea);
+}
+.border-class-1 {
+  border: 1px solid rgba(38,97,65,0.627);
+}
+.home-page {
+  align-items: center;
+  background-color: var(--white);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.home-page .add-new-client-iofYqm {
+  background-color: transparent;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 154px;
+}
+.home-page .charles-wu-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 982px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 399px;
+  width: 592px;
+}
+.home-page .current-clients-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  margin-top: 2.0px;
+  min-height: 53px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 745px;
+}
+.home-page .deija-washington-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 982px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 290px;
+  width: 592px;
+}
+.home-page .ellipse-12-RH0WJ5 {
+  background-color: transparent;
+  border-radius: 64.5px/59px;
+  height: 118px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 129px;
+}
+.home-page .ellipse-33-4eduM0 {
+  background-color: transparent;
+  border-radius: 30px/29px;
+  height: 58px;
+  left: 119px;
+  object-fit: cover;
+  position: absolute;
+  top: 74px;
+  width: 60px;
+}
+.home-page .ellipse-33-BJQsbv {
+  background-color: transparent;
+  border-radius: 30px/29px;
+  height: 58px;
+  left: 891px;
+  object-fit: cover;
+  position: absolute;
+  top: 72px;
+  width: 60px;
+}
+.home-page .ellipse-39-4eduM0 {
+  background-color: transparent;
+  border-radius: 30.5px/28.5px;
+  height: 57px;
+  left: 119px;
+  object-fit: cover;
+  position: absolute;
+  top: 184px;
+  width: 61px;
+}
+.home-page .ellipse-39-BJQsbv {
+  background-color: transparent;
+  border-radius: 30.5px/28.5px;
+  height: 57px;
+  left: 891px;
+  object-fit: cover;
+  position: absolute;
+  top: 182px;
+  width: 61px;
+}
+.home-page .ellipse-40-4eduM0 {
+  background-color: transparent;
+  border-radius: 30.5px/28.5px;
+  height: 57px;
+  left: 119px;
+  object-fit: cover;
+  position: absolute;
+  top: 293px;
+  width: 61px;
+}
+.home-page .ellipse-40-BJQsbv {
+  background-color: transparent;
+  border-radius: 30.5px/28.5px;
+  height: 57px;
+  left: 891px;
+  object-fit: cover;
+  position: absolute;
+  top: 291px;
+  width: 61px;
+}
+.home-page .ellipse-41-4eduM0 {
+  background-color: transparent;
+  border-radius: 30.5px/28.5px;
+  height: 57px;
+  left: 119px;
+  object-fit: cover;
+  position: absolute;
+  top: 402px;
+  width: 61px;
+}
+.home-page .ellipse-41-BJQsbv {
+  background-color: transparent;
+  border-radius: 30.5px/28.5px;
+  height: 57px;
+  left: 891px;
+  object-fit: cover;
+  position: absolute;
+  top: 400px;
+  width: 61px;
+}
+.home-page .ellipse-42-4eduM0 {
+  background-color: transparent;
+  border-radius: 30.5px/28.5px;
+  height: 57px;
+  left: 119px;
+  object-fit: cover;
+  position: absolute;
+  top: 511px;
+  width: 61px;
+}
+.home-page .ellipse-42-BJQsbv {
+  background-color: transparent;
+  border-radius: 30.5px/28.5px;
+  height: 57px;
+  left: 891px;
+  object-fit: cover;
+  position: absolute;
+  top: 509px;
+  width: 61px;
+}
+.home-page .ellipse-43-RH0WJ5 {
+  background-color: var(--galliano);
+  border-radius: 8.5px;
+  height: 17px;
+  left: 1814px;
+  position: absolute;
+  top: 68px;
+  width: 17px;
+}
+.home-page .ena-kohler-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 184px;
+  width: 421px;
+}
+.home-page .flex-row-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 59px;
+  justify-content: flex-start;
+  margin-left: 54.0px;
+  margin-top: 96px;
+  min-width: 1540px;
+  position: relative;
+  width: auto;
+}
+.home-page .gray-milford-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 292px;
+  width: 592px;
+}
+.home-page .icons-q2-RJnCk2 {
+  background-color: transparent;
+  background-image: url(../img/path-18-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 8px);
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: calc(100.00% - 8px);
+}
+.home-page .icons-q2-cRKBoe {
+  background-color: transparent;
+  background-image: url(../img/path-40@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 7px);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 49px;
+}
+.home-page .icons-q2-tvjFNW {
+  background-color: transparent;
+  background-image: url(../img/path-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 4px);
+  left: 4px;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 8px);
+}
+.home-page .icons-q2-ykNAhA {
+  background-color: transparent;
+  background-image: url(../img/path-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 14px);
+  left: 2px;
+  position: absolute;
+  top: 7px;
+  width: calc(100.00% - 4px);
+}
+.home-page .invisible-box-RJnCk2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home-page .invisible-box-cRKBoe {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 58px;
+}
+.home-page .invisible-box-tvjFNW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home-page .invisible-box-ykNAhA {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home-page .isabella-garcia-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 401px;
+  width: 592px;
+}
+.home-page .julie-phillips-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 985px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 72px;
+  width: 592px;
+}
+.home-page .layer-2-RH0WJ5 {
+  background-color: transparent;
+  height: 48px;
+  left: 1678px;
+  position: absolute;
+  top: 68px;
+  width: 48px;
+}
+.home-page .layer-2-Vr48xL {
+  background-color: transparent;
+  height: 48px;
+  left: 1784px;
+  position: absolute;
+  top: 68px;
+  width: 48px;
+}
+.home-page .layer-2-s3i1G8 {
+  background-color: transparent;
+  height: 48px;
+  left: 1582px;
+  position: absolute;
+  top: 68px;
+  width: 48px;
+}
+.home-page .layer-2-wN84x2 {
+  background-color: transparent;
+  height: 58px;
+  left: 10px;
+  position: absolute;
+  top: 63px;
+  width: 94px;
+}
+.home-page .lindsey-bradshaw-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 982px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 182px;
+  width: 421px;
+}
+.home-page .mohammad-ayad-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 513px;
+  width: 592px;
+}
+.home-page .nick-jones-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 982px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 511px;
+  width: 592px;
+}
+.home-page .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 640px;
+  margin-left: 53.0px;
+  margin-top: 23px;
+  position: relative;
+  width: 1593px;
+}
+.home-page .overlap-group1-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 179px;
+  margin-top: 0px;
+  position: relative;
+  width: 1921px;
+}
+.home-page .overlap-group2-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 59px;
+  margin-left: 29px;
+  position: relative;
+  width: 204px;
+}
+.home-page .overlap-group3-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 59px;
+  margin-left: 358px;
+  position: relative;
+  width: 204px;
+}
+.home-page .past-clients-zUA2mT {
+  background-color: transparent;
+  height: auto;
+  left: 38px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 130px;
+}
+.home-page .rectangle-174-4eduM0 {
+  background-color: rgba(38,97,65,0.184);
+  border-radius: 22px;
+  height: 640px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1593px;
+}
+.home-page .rectangle-177-iofYqm {
+  background-color: rgba(38,97,65,0.184);
+  border-radius: 38px;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 204px;
+}
+.home-page .rectangle-342-4eduM0 {
+  background-color: var(--white);
+  border-radius: 18px;
+  height: 83px;
+  left: 64px;
+  position: absolute;
+  top: 169px;
+  width: 706px;
+}
+.home-page .rectangle-343-4eduM0 {
+  background-color: var(--white);
+  border-radius: 18px;
+  height: 83px;
+  left: 64px;
+  position: absolute;
+  top: 279px;
+  width: 706px;
+}
+.home-page .rectangle-344-4eduM0 {
+  background-color: var(--white);
+  border-radius: 18px;
+  height: 83px;
+  left: 64px;
+  position: absolute;
+  top: 390px;
+  width: 706px;
+}
+.home-page .rectangle-345-4eduM0 {
+  background-color: var(--white);
+  border-radius: 18px;
+  height: 83px;
+  left: 64px;
+  position: absolute;
+  top: 499px;
+  width: 706px;
+}
+.home-page .rectangle-346-4eduM0 {
+  background-color: var(--white);
+  border-radius: 18px;
+  height: 83px;
+  left: 840px;
+  position: absolute;
+  top: 499px;
+  width: 706px;
+}
+.home-page .rectangle-347-4eduM0 {
+  background-color: var(--white);
+  border-radius: 18px;
+  height: 83px;
+  left: 840px;
+  position: absolute;
+  top: 390px;
+  width: 706px;
+}
+.home-page .rectangle-348-4eduM0 {
+  background-color: var(--white);
+  border-radius: 18px;
+  height: 83px;
+  left: 840px;
+  position: absolute;
+  top: 279px;
+  width: 706px;
+}
+.home-page .rectangle-349-4eduM0 {
+  background-color: var(--white);
+  border-radius: 18px;
+  height: 83px;
+  left: 840px;
+  position: absolute;
+  top: 169px;
+  width: 706px;
+}
+.home-page .rectangle-350-4eduM0 {
+  background-color: var(--white);
+  border-radius: 18px;
+  height: 83px;
+  left: 837px;
+  position: absolute;
+  top: 62px;
+  width: 706px;
+}
+.home-page .rectangle-51-RH0WJ5 {
+  background-color: var(--green-pea-2);
+  height: 179px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1921px;
+}
+.home-page .rectangle-61-4eduM0 {
+  background-color: var(--white);
+  border-radius: 18px;
+  height: 83px;
+  left: 61px;
+  position: absolute;
+  top: 62px;
+  width: 706px;
+}
+.home-page .rectangle-67-zUA2mT {
+  background-color: rgba(38,97,65,0.184);
+  border-radius: 38px;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 204px;
+}
+.home-page .robert-edwards-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 213px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 74px;
+  width: 592px;
+}
+.home-page .tracy-brown-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 292px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 72px;
+  width: 237px;
+}
+.home-page .x2-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 1820px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 68px;
+  width: 30px;
+}
+.opensans-bold-white-11px {
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+}
+.opensans-bold-white-25px {
+  color: var(--white);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+.opensans-normal-green-pea-20px {
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-normal-green-pea-23px {
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+}
+.opensans-normal-green-pea-40px {
+  color: var(--green-pea);
+  font-family: 'Open Sans', Helvetica;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+}
+.trajanpro3-bold-green-pea-50px {
+  color: var(--green-pea);
+  font-family: 'TrajanPro 3-Bold', Helvetica;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --cararra: rgba(235,235,235,1.0);
+  --concrete: rgba(242,242,242,1.0);
+  --galliano: rgba(219,170,0,1.0);
+  --green-blue: rgba(31,120,180,1.0);
+  --green-pea: rgba(38,97,65,1.0);
+  --green-pea-2: rgba(38,97,65,0.992);
+  --shady-lady: rgba(170,170,170,1.0);
+  --tundora: rgba(68,68,68,1.0);
+  --white: rgba(255,255,255,1.0);
+}

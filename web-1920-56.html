@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/web-1920-56.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+
+      @font-face {
+        font-family: "Arial-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c58c99ae21217000c4e869b/arial.otf") format("opentype");
+      }
+
+      @font-face {
+        font-family: "HelveticaNeue-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5cf8ce54520dfb8030e86611/HelveticaNeue-Regular.ttf")
+          format("truetype");
+      }
+
+      @font-face {
+        font-family: "TrajanPro 3-Bold";
+        font-style: normal;
+        font-weight: 700;
+        src: url("https://anima-uploads.s3.amazonaws.com/5d85c6afa4df1e13f530fd3c/trajan-pro-3-bold.otf")
+          format("opentype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(255, 255, 255, 1)">
+    <input type="hidden" id="anPageName" name="page" value="web-1920-56" />
+    <div class="container-center-horizontal">
+      <div class="web-1920-56 screen">
+        <div class="rectangle-330-C61RwL"></div>
+        <div class="rectangle-329-C61RwL"></div>
+        <div class="rectangle-51-C61RwL border-1px-green-pea"></div>
+        <div class="tracy-brown-C61RwL opensans-bold-white-25px">TRACY BROWN</div>
+        <div class="layer-2-C61RwL">
+          <div class="invisible-box-f3UKUx"></div>
+          <div class="icons-q2-f3UKUx"></div>
+        </div>
+        <div class="layer-2-VMr6Om">
+          <div class="invisible-box-aqtSUU"></div>
+          <div class="icons-q2-aqtSUU"></div>
+        </div>
+        <img class="ellipse-12-C61RwL" src="img/ellipse-12@1x.png" />
+        <a href="home-page.html">
+          <div class="layer-2-mzXdH9">
+            <div class="invisible-box-LLDiUW"></div>
+            <div class="icons-q2-LLDiUW"></div></div
+        ></a>
+        <div class="layer-2-QxM5SU">
+          <div class="invisible-box-cNo0Yv"></div>
+          <div class="icons-q2-cNo0Yv"></div>
+        </div>
+        <div class="ellipse-43-C61RwL"></div>
+        <div class="x2-C61RwL opensans-bold-white-11px">2</div>
+        <div class="rectangle-178-C61RwL"></div>
+        <div class="initial-contact-C61RwL">Initial Contact</div>
+        <div class="layer-2-2P4qUJ">
+          <div class="invisible-box-M2Wbrj"></div>
+          <div class="icons-q2-M2Wbrj"><img class="path-45-jkre2R" src="img/path-45@1x.png" /></div>
+        </div>
+        <div class="robert-edwards-C61RwL trajanpro3-bold-green-pea-50px">Robert Edwards</div>
+        <a href="web-1920-57.html">
+          <div class="layer-2-qr8e7q">
+            <div class="invisible-box-PFoOXY"></div>
+            <div class="icons-q2-PFoOXY"></div></div
+        ></a>
+        <img class="ellipse-33-C61RwL" src="img/ellipse-33@1x.png" />
+        <div class="rectangle-1-C61RwL border-1px-green-pea"></div>
+        <div class="rectangle-3-C61RwL border-1px-green-pea"></div>
+        <div class="robert-edwards-VMr6Om">Robert Edwards</div>
+        <div class="rectangle-4-C61RwL border-1px-green-pea"></div>
+        <div class="rectangle-5-C61RwL border-1px-green-pea"></div>
+        <div class="name-C61RwL opensans-normal-green-pea-20px">Name:</div>
+        <div class="email-C61RwL opensans-normal-green-pea-20px">Email:</div>
+        <div class="cell-phone-C61RwL opensans-normal-green-pea-20px">Cell Phone:</div>
+        <div class="home-phone-C61RwL opensans-normal-green-pea-20px">Home Phone:</div>
+        <div class="rectangle-259-C61RwL border-1px-green-pea"></div>
+        <div class="how-did-the-client-contact-us-C61RwL opensans-normal-green-pea-20px">
+          How did the client contact us?
+        </div>
+        <div class="rectangle-260-C61RwL border-1px-green-pea"></div>
+        <div class="how-did-the-cli-t-hear-about-us-C61RwL opensans-normal-green-pea-20px">
+          How did the client hear about us?
+        </div>
+        <div class="basic-information-C61RwL">Basic Information</div>
+        <div class="rectangle-263-C61RwL border-1px-green-pea"></div>
+        <div class="current-address-C61RwL opensans-normal-green-pea-20px">Current Address:</div>
+        <div class="questions-about-service-C61RwL">Questions About Service</div>
+        <div class="is-the-client-downsizing-C61RwL opensans-normal-green-pea-20px">Is the Client downsizing?</div>
+        <div class="is-the-client-s-tling-an-estate-C61RwL opensans-normal-green-pea-20px">
+          Is the Client settling an estate?
+        </div>
+        <div class="yes-C61RwL">Yes</div>
+        <div class="rectangle-224-C61RwL border-1px-green-pea"></div>
+        <div class="no-C61RwL">No</div>
+        <div class="rectangle-264-C61RwL border-1px-green-pea"></div>
+        <div class="yes-VMr6Om">Yes</div>
+        <div class="rectangle-265-C61RwL border-1px-green-pea"></div>
+        <div class="no-VMr6Om">No</div>
+        <div class="rectangle-266-C61RwL border-1px-green-pea"></div>
+        <div class="is-the-client-moving-C61RwL opensans-normal-green-pea-20px">Is the Client moving?</div>
+        <div class="yes-mzXdH9">Yes</div>
+        <div class="rectangle-267-C61RwL border-1px-green-pea"></div>
+        <div class="no-mzXdH9">No</div>
+        <div class="rectangle-268-C61RwL border-1px-green-pea"></div>
+        <div class="rectangle-269-C61RwL border-1px-green-pea"></div>
+        <div class="how-much-does-t-nt-have-to-sell-C61RwL opensans-normal-green-pea-20px">
+          How much does the client have to sell?
+        </div>
+        <div class="rectangle-270-C61RwL border-1px-green-pea"></div>
+        <div class="what-does-the-c-nt-have-to-sell-C61RwL opensans-normal-green-pea-20px">
+          What does the client have to sell?
+        </div>
+        <div class="additional-information-C61RwL">Additional Information</div>
+        <div class="date-and-time-of-contact-C61RwL opensans-normal-green-pea-20px">Date and time of contact:</div>
+        <div class="rectangle-271-C61RwL border-1px-green-pea"></div>
+        <div class="who-created-this-form-C61RwL opensans-normal-green-pea-20px">Who created this form?</div>
+        <div class="rectangle-272-C61RwL border-1px-green-pea"></div>
+        <div class="deadline-for-service-C61RwL opensans-normal-green-pea-20px">Deadline for Service:</div>
+        <div class="rectangle-273-C61RwL border-1px-green-pea"></div>
+        <div class="redwardsgmailcom-C61RwL">redwards@gmail.com</div>
+        <div class="x408-399-9380-C61RwL opensans-normal-green-pea-23px">408 - 399 - 9380</div>
+        <div class="x408-780-2922-C61RwL opensans-normal-green-pea-23px">408 - 780 - 2922</div>
+        <div class="x407-king-street-broadway-va-C61RwL opensans-normal-green-pea-23px">
+          407 King Street, Broadway VA
+        </div>
+        <div class="layer-2-J1YQmd">
+          <div class="invisible-box-mHynFi"></div>
+          <div class="icons-q2-mHynFi"></div>
+        </div>
+        <div class="layer-2-a5WPlX">
+          <div class="invisible-box-i34q7s"></div>
+          <div class="icons-q2-i34q7s"></div>
+        </div>
+        <div class="layer-2-HlKRTo">
+          <div class="invisible-box-U4No8k"></div>
+          <div class="icons-q2-U4No8k"></div>
+        </div>
+        <div class="layer-2-VkPPtx">
+          <div class="invisible-box-jYzGsl"></div>
+          <div class="icons-q2-jYzGsl"></div>
+        </div>
+        <div class="x20-items-C61RwL opensans-normal-green-pea-23px">20 items</div>
+        <div class="household-items-C61RwL opensans-normal-green-pea-23px">Household items</div>
+        <div class="by-phone-C61RwL opensans-normal-green-pea-23px">By phone</div>
+        <div class="website-C61RwL opensans-normal-green-pea-23px">Website</div>
+        <div class="march-3rd-2021-C61RwL opensans-normal-green-pea-23px">March 3rd, 2021</div>
+        <div class="x400pm-C61RwL opensans-normal-green-pea-23px">4:00pm</div>
+        <div class="tracy-brown-VMr6Om opensans-normal-green-pea-23px">Tracy Brown</div>
+        <div class="june-10th-2021-C61RwL opensans-normal-green-pea-23px">June 10th, 2021</div>
+      </div>
+    </div>
+  </body>
+</html>
